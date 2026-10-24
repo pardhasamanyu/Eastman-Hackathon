@@ -65,9 +65,26 @@ Identify the top 5 customers with the highest number of delayed deliveries.
 
 In progress — Data preparation and business analysis.
 
-## Author
+production-table-
+has no null values, no duplicate rows, 1 negative produced quantity
+rejection rate
+production varience 
+achievement %
+accepted quantity
 
-**Pardha Samanyu Dasari**
+plants-
+total planned, total produced, total rejected, production runs, achievement rate, rejection rate
+which plant produces highest, met production target, has highest rejection rate
+
+monthly analysis-
+planned- produced and rejected
+
+
+delivery table-
+converted date columns to date time (str to datetime)
+no null duplicate values
+delay days - how many no delay days, 1 day days etc
+insights- delayed, ontime, delay rate, average delay days
 
 GitHub: [@pardhasamanyu](https://github.com/pardhasamanyu)
 
